@@ -141,7 +141,8 @@ DIST:4cm ALERT
 │   ├── mainnode.jpeg         # Main node hardware
 │   ├── display.jpeg          # LCD startup screen
 │   ├── forward.jpeg          # Forward mode demo
-│   └── reverse.jpeg          # Reverse mode demo
+│   └── reverse.jpeg
+|   |__majorblock_dia.png
 ├── main_node/                # Main node source code
 ├── indicator_node/           # Indicator node source code
 ├── reverse_alert_node/       # Reverse alert node source code
