@@ -55,7 +55,6 @@ The three nodes share a CAN bus with termination resistors (RT) at each end. Eac
 
 ### 1. Main Node
 
-![Main node](images/mainnode.jpeg)
 
 - LPC2129 with on-chip CAN controller and MCP2551 transceiver
 - **Inputs:** mode switch, left-indicator switch (L.I SW), right-indicator switch (R.I SW) via external interrupt lines, DS18B20 engine temperature sensor
